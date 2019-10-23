@@ -1,4 +1,4 @@
 # WEB APPLICATION FULLSTACK FRAMEWORK
-FULL STACK FRAMWORK Bases on RDBMS
+FULL STACK FRAMWORK Based on RDBMS Potencial (MVC where M and C are inside RDBMS)
 
 In Conceptualization Phase.
